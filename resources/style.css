@@ -1,0 +1,38 @@
+body {
+  background-color: #101010;
+  color: white;
+  font-family: verdana;
+  text-align: center;
+}
+video {
+  display: block;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+p {
+  font size: 21px;
+  color: grey;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+.main {
+  margin-bottom: 20px;
+}
+.main img {
+  width: 700px;
+}
+.footer img {
+  width: 40px;
+}
+.footer p {
+  text-align: right;
+  }
