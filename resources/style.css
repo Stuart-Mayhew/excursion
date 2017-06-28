@@ -3,10 +3,11 @@ body {
   color: white;
   font-family: verdana;
   text-align: center;
+  word-spacing: 0.25em;
 }
 video {
   display: block;
-  margin: 0 auto;
+  margin: 20px auto 0;
 }
 h1 {
   font-size: 50px;
@@ -19,6 +20,7 @@ h2 {
 p {
   font size: 21px;
   color: grey;
+  font-weight: 900;
 }
 a {
   color: aquamarine;
@@ -28,10 +30,10 @@ a {
   margin-bottom: 20px;
 }
 .main img {
-  width: 700px;
+  width: 800px;
 }
 .footer img {
-  width: 40px;
+  width: 60px;
 }
 .footer p {
   text-align: right;
