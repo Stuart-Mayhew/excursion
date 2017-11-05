@@ -5,9 +5,15 @@ body {
   text-align: center;
   word-spacing: 0.25em;
 }
+.jumbotron {
+  background-color: black;
+  padding: 24px 0;
+}
 video {
   display: block;
   margin: 20px auto 0;
+  border: aquamarine 2px solid;
+  border-radius: 20%;
 }
 h1 {
   font-size: 50px;
